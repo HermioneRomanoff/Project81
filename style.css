@@ -1,0 +1,12 @@
+body{
+    background: linear-gradient(#950ee3 0%, #7e6ff5 50%, #7e6ff5 100%);
+    vertical-align:center;
+}
+
+
+
+h1{
+    color:blueviolet;
+    font-family: italic;
+    font-size:50px;
+}
